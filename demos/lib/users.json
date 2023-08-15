@@ -1,0 +1,17 @@
+[
+    {
+        "email": "admin@pms.com",
+        "password": "pms123",
+        "address": "1234 Elephant Lane \r\nLas Vegas , MM 16300"
+    },
+    {
+        "email": "h4t4way@pms.com",
+        "password": "pms1234",
+        "address": "1235 Miller Alley Blvd\r\nNYC City, MM 16311"
+    },
+    {
+        "email": "dipa@pms.com",
+        "password": "pms12345",
+        "address": "1236 Autumnry Walk\r\nLos Angeles, MM 16500"
+    }
+]
